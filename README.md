@@ -1,4 +1,4 @@
-# brew_crew
+# MUSIC APP
 
 A new Flutter application.
 
